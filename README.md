@@ -14,7 +14,7 @@ What has cynx done!
 ## Leaked content 
 **the matchmaker and autohoster are both from cynx they might be skidded im not sure.** 
 - they both work perfectly fine i will be posting his backend that ever so clearly is reload. along with some pictures
-- **Cynx.dev cannot even code btw the gmail that i let him use was for an ai called cursor that he used to do the work for him he didnt know how to do anything by himself found here:https://api2.cursor.sh/updates/download/golden/win32-x64-user/cursor/2.5
+- **Cynx.dev** cannot even code btw the gmail that i let him use was for an ai called cursor that he used to do the work for him he didnt know how to do anything by himself found here:https://api2.cursor.sh/updates/download/golden/win32-x64-user/cursor/2.5
 - he also skidded erbuium to an extent aswell using it for tournaments and claimed it was a custom gameserver quote "he made" (erbium:https://github.com/plooshi/Erbium) credits to Ploosh
 **backend: https://gofile.io/d/0YXuHI**
 
